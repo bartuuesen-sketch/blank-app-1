@@ -1,5 +1,3 @@
-  n u m p y   @   f i l e : / / / C : / b / a b s _ c 1 y w p u 1 8 a r / c r o o t / n u m p y _ a n d _ n u m p y _ b a s e _ 1 7 0 8 6 3 8 6 8 1 4 7 1 / w o r k / d i s t / n u m p y - 1 . 2 6 . 4 - c p 3 1 2 - c p 3 1 2 - w i n _ a m d 6 4 . w h l # s h a 2 5 6 
- 
- p a n d a s   @   f i l e : / / / C : / b / a b s _ 9 a o t n v v z 1 6 / c r o o t / p a n d a s _ 1 7 1 8 3 0 8 9 7 8 3 9 3 / w o r k / d i s t / p a n d a s - 2 . 2 . 2 - c p 3 1 2 - c p 3 1 2 - w i n _ a m d 6 4 . w h l # s h a 2 5 6 = 9 3 9 5 9 0 5 6 e 0 2 e 9 8 5 5 0 2 5 0 1 1 a d b 1 8 3 9 4 2 9 6 a 5 8 d 4 9 e 7 2 b 9 3 4 2 7 3 3 b 7 6 9 3 a 5 2 6 7 c 7 9 0 
- 
- s t r e a m l i t   @   f i l e : / / / C : / b / a b s _ 8 4 p _ 5 4 g i m 8 / c r o o t / s t r e a m l i t _ 1 7 2 4 3 3 5 1 7 6 2 3 4 / w o r k 
+streamlit
+numpy
+pandas
